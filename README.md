@@ -27,7 +27,7 @@
 6. Añadir fotografías
 
 ### Créditos
-**Créditos:**
+
 - 
 
 ## English
@@ -57,5 +57,5 @@
 6. Add photographs
 
 ### Credits
-**Credits:**
+
 - 
