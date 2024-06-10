@@ -3,7 +3,7 @@
 ## Español
 
 ### Introducción
-**Introducción:** El siguiente repo recopila mods de la comunidad y modificaciones propias para el proyecto Gzero - Mercury One.1, y tiene por objetivo convertir la impresora a fully enclosed sin modificaciones mayores al BOM. Dentro de los mods podrás ver:
+El siguiente repo recopila mods de la comunidad y modificaciones propias para el proyecto Gzero - Mercury One.1, y tiene por objetivo convertir la impresora a fully enclosed sin modificaciones mayores al BOM. Dentro de los mods podrás ver:
 - Eje Y por el lateral (y piezas del gantry XY modificadas).
 - Montaje de motores y tensores para enclosure
 - Z Axis inspirado en VZBot
@@ -11,14 +11,12 @@
 - Modificaciones para toolhead y cableado.
 
 ### Piezas validadas de la versión
-**Piezas validadas de la versión:**
 - Tensores
 - XY Gantry
 - Steppers Mounts
 - Z Axis mod.
 
 ### To-Do siguientes versiones
-**To-Do siguientes versiones:**
 1. Terminar de visualizar electrónica y montaje en 220Vac
 2. Añadir Clips para sujección de paneles acrílicos
 3. Añadir DXF acrílicos
@@ -33,7 +31,7 @@
 ## English
 
 ### Introduction
-**Introduction:** This repository collects community mods and custom modifications for the Gzero - Mercury One.1 project, aiming to convert the printer to fully enclosed without major changes to the BOM. Among the mods you will see:
+This repository collects community mods and custom modifications for the Gzero - Mercury One.1 project, aiming to convert the printer to fully enclosed without major changes to the BOM. Among the mods you will see:
 - Y Axis on the side (and modified XY gantry parts).
 - Motor and tensioner mounts for enclosure
 - Z Axis inspired by VZBot
@@ -41,14 +39,12 @@
 - Modifications for toolhead and wiring.
 
 ### Validated parts of the version
-**Validated parts of the version:**
 - Tensioners
 - XY Gantry
 - Steppers Mounts
 - Z Axis mod.
 
 ### To-Do for next versions
-**To-Do for next versions:**
 1. Finish visualizing electronics and mounting at 220Vac
 2. Add Clips for acrylic panel fastening
 3. Add acrylic DXFs
